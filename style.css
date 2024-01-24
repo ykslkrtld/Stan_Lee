@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container{
+    background-color: rgb(40, 39, 39);
+    width: 78vw;
+    margin: 30px auto;
+    border: none;
+    border-radius: 20px;
+    padding-bottom: 10px;
+}
+
+#container h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    font-size: 90px;
+    margin: 60px 0px;
+}
+#container h1 span{
+    color: red;
+}
+
+#sec1{
+    width: 40%;
+    margin: auto;
+}
+
+#sec1 img{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    box-shadow: red 5px 5px 500px 0px;
+    border: none;
+    border-radius: 40px;
+}
+
+.born{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#life, #marvel{
+    width: 80%;
+    margin: auto;
+    font-size: 24px;
+    text-align: justify;
+}
+
+#marvel h2{
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+ul{
+    line-height: 2;
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+
+footer{
+    font-size: 32px;
+    text-align: center;
+    margin: 30px;
+}
+
+footer a{
+    padding: 10px;
+    border: 2px solid orange;
+    border-radius: 10px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover{
+    background-color: rgb(40, 39, 39);
+    color: red;
+}
