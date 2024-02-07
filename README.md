@@ -1,7 +1,3 @@
-# Stan-Lee-Basic-Css-Project
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
 # Code Challenge - 01 :Stanlee Web Page (HC-CC-01)
 
 ## Description
@@ -75,11 +71,3 @@ Build a Website that is functionally similar to this: [Stanlee Web Page](https:/
 ## Notes
 
 - You can use HTML,and CSS to complete this project.
-
-## Resources
-
--  [Screen Shot](./img/StanLee.png)
-
-
-<p align="center"> &#8987; <strong>Happy Coding</strong>  &#9997; </p>
-
